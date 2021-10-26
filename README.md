@@ -4,7 +4,7 @@ These are the model results and codes presented here on GitHub (https://github.c
 •	Part A: Choice Models— - The individual predictor coefficients for each activity choice. This part presents the choice model results in .html format; daytypechmodels.html, periodschmodels.html, and timescalechmodels.html. <br/>
 •	Part B: Duration OLS models— - The entire duration model results for each activity during each DF-relevant period with variable coefficients and p-values. This part presents the duration model results in .html format; durcripeakslide.html, durdayslide.html, durinstslide.html, duroffpeakslide.html, durpeakslide.html, durperiodslide.html, durwkdayslide.html, and durwkndslide.html.<br/>
 •	Part C: Duration LASSO adaptive and cross-validation model selections. lassoselections.html.<br/>
-•	Part D: LASSO inference model for approximating the duration of any of the DF activities during any period, day, or single instance. lassodscvall_period.html.<br/>
+•	Part D: LASSO inference model for approximating the duration of any of the DF activities during any period, day, or single instance. lassoinf_period.html.<br/>
 •	Part E: Stata codes developed for these model runs. I wrote these to run the econometric analysis in the corresponding study, and is committed to this repo as "ATUS2_Stata.do". The interpretation of the variable names used in the code is attached in a separate file as variablenames.html.<br/>
 
 <br/>
