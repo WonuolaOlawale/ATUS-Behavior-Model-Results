@@ -26,4 +26,4 @@ durcripeakslide.html: The duration estimates for critical peak period.<br/>
 ## Declaration of Corresponding Author and Title of Study
 I, Opeoluwa Wonuola Olawale, declare that these are original results I have presented here to contain the large table of results obtained from our study as well as codes developed.<br/> 
 You can contact me at Wonuola.Olawale@nrel.gov. <br/>
-The currently yet-to-be-published relevant study, that led to these results, is titled, "Residential Demand Flexibility: Modeling Extensive and Intensive Occupant Behavior" by Opeoluwa Wonuola Olawale, Benjamin Gilbert, and Janet Reyna.
+The currently yet-to-be-published relevant study, that led to these results, is titled, "Residential Demand Flexibility: Modeling Occupant Behavior using Sociodemographic Predictors" by Opeoluwa Wonuola Olawale, Benjamin Gilbert, and Janet Reyna.
